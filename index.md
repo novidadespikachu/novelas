@@ -6,7 +6,7 @@
 
 <table style="width:100%"><tr><th><center> A Dona do Pedaço (2019) </center></th></tr>
 <tr><td><div align="center"><img src="https://media-manager.noticiasaominuto.com.br/1920/1559576095/naom_5ce3dfb5aa30a.jpg?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5NzUsImNyb3BIZWlnaHQiOjU3MywiY3JvcFgiOjEwLCJjcm9wWSI6NX19?fit=1920%2C1280&quality=100&strip=all&ssl=1" alt="Addon Pikachu"></div></td></tr>
-<tr><td><justifyMaria da Paz vem de uma família de justiceiros profissionais, os Ramirez, e se apaixona por Amadeu, membro da principal família rival nos negócios, os Matheus.</justify></td></tr> 
+<tr><td><justify>Maria da Paz vem de uma família de justiceiros profissionais, os Ramirez, e se apaixona por Amadeu, membro da principal família rival nos negócios, os Matheus.</justify></td></tr> 
 <tr><td><center> Capítulos adicionados: 161 </center></td></tr></table>
 
 <table style="width:100%"><tr><th><center> José do Egito (2013) </center></th></tr>
