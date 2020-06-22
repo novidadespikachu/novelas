@@ -6,8 +6,9 @@
 
 <table style="width:100%"><tr><th><center><i><b> José do Egito (2013) </i></b></center></th></tr>
 <tr><td><div align="center"><img src="https://i1.wp.com/recordeuropa.com/wp-content/uploads/2019/11/jose-do-egito-1.jpg?fit=1920%2C1280&quality=100&strip=all&ssl=1" alt="Addon Pikachu"></div></td></tr>
-<tr><td><justify><b><i>A saga de um homem de Deus, íntegro e indulgente, que após ser vendido como escravo pelos irmãos é levado para o Egito, onde é injustiçado, caluniado, preso e humilhado. Apesar disso, a vida de José é um exemplo de pureza, paciência, amor e perdão.</b></i></justify></td></tr>
- <tr><th><center><b><i> Capítulos adicionados: 38 </i></b></center></th></tr></table>
+<tr><td><justify>A saga de um homem de Deus, íntegro e indulgente, que após ser vendido como escravo pelos irmãos é levado para o Egito, onde é injustiçado, caluniado, preso e humilhado. Apesar disso, a vida de José é um exemplo de pureza, paciência, amor e perdão.</justify></td></tr> 
+<tr><td><center> Capítulos adicionados: 38 </center></td></tr></table>
+
  
  <a href="https://bit.ly/pikachufull">
 <img src="https://tinyurl.com/y9zk36eq" alt="pikachu">
