@@ -4,6 +4,11 @@
  
  ## segunda, 22 de junho de 2020
 
+<table style="width:100%"><tr><th><center> A Dona do Pedaço (2019) </center></th></tr>
+<tr><td><div align="center"><img src="https://image.tmdb.org/t/p/w500_and_h282_face/uCxXu41KRUsWmdOqBzgimH3BAAd.jpg?fit=1920%2C1280&quality=100&strip=all&ssl=1" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justifyMaria da Paz vem de uma família de justiceiros profissionais, os Ramirez, e se apaixona por Amadeu, membro da principal família rival nos negócios, os Matheus.</justify></td></tr> 
+<tr><td><center> Capítulos adicionados: 161 </center></td></tr></table>
+
 <table style="width:100%"><tr><th><center> José do Egito (2013) </center></th></tr>
 <tr><td><div align="center"><img src="https://i1.wp.com/recordeuropa.com/wp-content/uploads/2019/11/jose-do-egito-1.jpg?fit=1920%2C1280&quality=100&strip=all&ssl=1" alt="Addon Pikachu"></div></td></tr>
 <tr><td><justify>A saga de um homem de Deus, íntegro e indulgente, que após ser vendido como escravo pelos irmãos é levado para o Egito, onde é injustiçado, caluniado, preso e humilhado. Apesar disso, a vida de José é um exemplo de pureza, paciência, amor e perdão.</justify></td></tr> 
