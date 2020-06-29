@@ -3,7 +3,29 @@
  [![](https://tinyurl.com/ydcxhx7f)](http://bit.ly/repokachu) [![](https://tinyurl.com/ybaflaxt)](https://vkodi.net/repo/) [![](https://tinyurl.com/ybcutyjq)](http://bit.ly/zipikachu) [![](https://tinyurl.com/yckqgysp)](https://linktr.ee/addonpikachu) [![](https://tinyurl.com/ybja3588)](https://tinyurl.com/grupopikachu) [![](https://tinyurl.com/y83so6xr)](https://t.me/addonpikachu)  
   <div align="center"><img src="https://tinyurl.com/ydahh4kf" alt="Addon Pikachu"> <img src="https://tinyurl.com/y86yjky9" alt="Addon Pikachu"></div>
   
- ## Segunda, 22 de junho de 2020
+ ## Segunda Feira, 29 de junho de 2020
+ 
+<table style="width:100%"><tr><th><center> A Força Do Querer (2017) - 1080p </center></th></tr>
+<tr><td><div align="center"><img src="https://www.rbsdirect.com.br/imagesrc/23788488.jpg?w=700" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Sinopse:  Uma mulher ambiciosa que por amor decide deixar a faculdade de direito e acaba envolvida no mundo do crime. Uma policial que sonha em ser uma lutadora de MMA enquanto luta contra o crime organizado. Uma jovem sonhadora que está dividida entre um grande amor e a busca da liberdade. (MrPikachu)</justify></td></tr> 
+<tr><td><center> Capítulos adicionados:173 </center></td></tr></table> 
+
+<table style="width:100%"><tr><th><center>  A Rainha do Tráfico (2011) - 1080p </center></th></tr>
+<tr><td><div align="center"><img src="https://tinyurl.com/yda84xm7" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Sinopse:  Teresa Mendoza é uma mulher ingênua que namorava um mexicano envolvido com o tráfico de drogas, e que se tornou líder de um cartel de drogas. (MrPikachu)</justify></td></tr> 
+<tr><td><center> Capítulos adicionados:63 </center></td></tr></table>
+
+<table style="width:100%"><tr><th><center>  Aliados (2013) - 720p </center></th></tr>
+<tr><td><div align="center"><img src="https://image.tmdb.org/t/p/original/1RvmqAtZiIHsQ6vQk7VTGQRMPKh.jpg" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Sinopse:  Aliados é uma unidade de televisão argentina criada e produzida por Cris Morena transmitida pela rede Telefe na Argentina e pela FOX Network para o resto da América Latina. Destina-se ao público adolescente e jovem. A estréia, prevista para 10 de junho de 2013, foi adiada para 26 de junho de ... quando sua produtora fechou a telenovela (MrPikachu)</justify></td></tr> 
+<tr><td><center> Capítulos adicionados:2 Temporadas </center></td></tr></table>
+
+<table style="width:100%"><tr><th><center>  Alem Do Tempo (2015) - 720p </center></th></tr>
+<tr><td><div align="center"><img src="https://image.tmdb.org/t/p/original/1RvmqAtZiIHsQ6vQk7VTGQRMPKh.jpg" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Sinopse:  Aliados é uma unidade de televisão argentina criada e produzida por Cris Morena transmitida pela rede Telefe na Argentina e pela FOX Network para o resto da América Latina. Destina-se ao público adolescente e jovem. A estréia, prevista para 10 de junho de 2013, foi adiada para 26 de junho de ... quando sua produtora fechou a telenovela (MrPikachu)</justify></td></tr> 
+<tr><td><center> Capítulos adicionados:2 Temporadas </center></td></tr></table>
+  
+ ## Segunda Feira, 22 de junho de 2020
 
 <table style="width:100%"><tr><th><center> A Dona do Pedaço (2019) </center></th></tr>
 <tr><td><div align="center"><img src="https://media-manager.noticiasaominuto.com.br/1920/1559576095/naom_5ce3dfb5aa30a.jpg?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5NzUsImNyb3BIZWlnaHQiOjU3MywiY3JvcFgiOjEwLCJjcm9wWSI6NX19?fit=1920%2C1280&quality=100&strip=all&ssl=1" alt="Addon Pikachu"></div></td></tr>
