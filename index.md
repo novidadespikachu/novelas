@@ -15,15 +15,25 @@
 <tr><td><justify>Sinopse:  Teresa Mendoza é uma mulher ingênua que namorava um mexicano envolvido com o tráfico de drogas, e que se tornou líder de um cartel de drogas. (MrPikachu)</justify></td></tr> 
 <tr><td><center> Capítulos adicionados:63 </center></td></tr></table>
 
-<table style="width:100%"><tr><th><center>  Aliados (2013) - 720p </center></th></tr>
+<table style="width:100%"><tr><th><center> Alem Do Tempo (2015) - 720p </center></th></tr>
+<tr><td><div align="center"><img src="https://observatoriodatv.uol.com.br/wp-content/uploads/2015/07/Al%C3%A9m-do-Tempo1.jpg" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Sinopse:  Além do Tempo é uma novela essencialmente romântica, que tem como tema principal a espiritualidade. A trama se passa no século 19, na fictícia Campobello, no sul do país, e conta a história de amor de Lívia e Felipe, que perdura por gerações. (MrPikachu)</justify></td></tr> 
+<tr><td><center> Capítulos adicionados:161 </center></td></tr></table>
+
+<table style="width:100%"><tr><th><center> Aliados (2013) - 720p </center></th></tr>
 <tr><td><div align="center"><img src="https://image.tmdb.org/t/p/original/1RvmqAtZiIHsQ6vQk7VTGQRMPKh.jpg" alt="Addon Pikachu"></div></td></tr>
 <tr><td><justify>Sinopse:  Aliados é uma unidade de televisão argentina criada e produzida por Cris Morena transmitida pela rede Telefe na Argentina e pela FOX Network para o resto da América Latina. Destina-se ao público adolescente e jovem. A estréia, prevista para 10 de junho de 2013, foi adiada para 26 de junho de ... quando sua produtora fechou a telenovela (MrPikachu)</justify></td></tr> 
 <tr><td><center> Capítulos adicionados:2 Temporadas </center></td></tr></table>
 
-<table style="width:100%"><tr><th><center>  Alem Do Tempo (2015) - 720p </center></th></tr>
-<tr><td><div align="center"><img src="https://image.tmdb.org/t/p/original/1RvmqAtZiIHsQ6vQk7VTGQRMPKh.jpg" alt="Addon Pikachu"></div></td></tr>
-<tr><td><justify>Sinopse:  Aliados é uma unidade de televisão argentina criada e produzida por Cris Morena transmitida pela rede Telefe na Argentina e pela FOX Network para o resto da América Latina. Destina-se ao público adolescente e jovem. A estréia, prevista para 10 de junho de 2013, foi adiada para 26 de junho de ... quando sua produtora fechou a telenovela (MrPikachu)</justify></td></tr> 
-<tr><td><center> Capítulos adicionados:2 Temporadas </center></td></tr></table>
+<table style="width:100%"><tr><th><center> Amigas e Rivais (2001) - 720p </center></th></tr>
+<tr><td><div align="center"><img src="https://dg31sz3gwrwan.cloudfront.net/fanart/331693/1217412-0-q80.jpg" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Sinopse:  Amigas y rivales é uma telenovela juvenil mexicana produzida pela Televisa e exibida pelo Canal de las Estrellas entre 26 de fevereiro a 9 de novembro de 2001. Foi escrita por Alejandro Pohlenz, baseada na ideia de Emilio Larrosa, sob a direção de Salvador Garcini e José Ángel García. (MrPikachu)</justify></td></tr> 
+<tr><td><center> Capítulos adicionados:23 Capítulos </center></td></tr></table>
+
+<table style="width:100%"><tr><th><center> Amor Com Amor Se Paga (1984) - 720p </center></th></tr>
+<tr><td><div align="center"><img src="https://i.ytimg.com/vi/iJEhPHuldpI/maxresdefault.jpg" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Sinopse:  Pão duro ao extremo, Nonô coloca cadeados na geladeira e nos armários da despensa para evitar que os filhos, Elisa e Tomaz, comam mais do que ele considera necessário. (MrPikachu)</justify></td></tr> 
+<tr><td><center> Capítulos adicionados:53 Capítulos </center></td></tr></table>
   
  ## Segunda Feira, 22 de junho de 2020
 
